@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafhael Marques
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning PHP and SQL
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me: SMS -> +55 34 991068414 | email -> rafamlf.2011@protonmail.com
 
 <!---
