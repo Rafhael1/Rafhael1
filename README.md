@@ -12,7 +12,7 @@
 #### 📫 How to reach me: SMS/Whatsapp -> +55 34 99714-8658 | Email -> rafhaelmarques@protonmail.com
  <div align="center">
    <img align="top" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael1&layout=compact&hide=ejs&langs_count=8&theme=tokyonight"/>
-  <img align="top" height="190em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
+  <img align="top" height="190em" src="https://github-readme-stats.vercel.app/api?username=Rafhael1&show_icons=true&theme=tokyonight"/>
  </div>
 
 ---
