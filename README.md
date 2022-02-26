@@ -1,7 +1,7 @@
 ### 👋 Hey Rafhael here
 ---
 <p align="center">
-  <img src="https://i.imgur.com/bSKL3fx.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://i.imgur.com/bEMcOyF.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 <a href="https://www.linkedin.com/in/rafhael-marques/" target="_blank">
