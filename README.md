@@ -1,8 +1,5 @@
 ### 👋 Hey Rafhael here
 ---
-<p align="center">
-  <img src="./github header.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
 
 <a href="https://www.linkedin.com/in/rafhael-marques/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
