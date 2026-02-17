@@ -7,16 +7,14 @@
 
 #### 💼 Currently working as: Full Stack Developer at [Loja Do Mecanico](https://www.lojadomecanico.com.br)
 #### 📫 How to reach me: Email -> rafhael.freitas@outlook.com
- <div align="center">
-   <img align="top" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafhael1&layout=compact&hide=ejs&langs_count=8&theme=tokyonight"/>
-  <img align="top" height="190em" src="https://github-readme-stats.vercel.app/api?username=Rafhael1&show_icons=true&theme=tokyonight"/>
- </div>
-
 ---
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Databases-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
- 
