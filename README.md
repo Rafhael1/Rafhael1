@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-#### 💼 Currently working as: Full Stack Developer at [Loja Do Mecanico](https://www.lojadomecanico.com.br)
+#### 💼 Currently working as: Full Stack Developer at [Banco Bradesco](https://banco.bradesco/html/classic/index.shtm)
 #### 📫 How to reach me: Email -> rafhael.freitas@outlook.com
 ---
 
